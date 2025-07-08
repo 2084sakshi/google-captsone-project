@@ -1,4 +1,4 @@
-# google-captsone-project
+
 # 🚴‍♀️ Cyclistic Bike-Share Capstone Project
 
 This is my Google Data Analytics Capstone project using Cyclistic bike-share data (June 2024–May 2025). I used **SQL (BigQuery)** for data cleaning and exploration, and **Tableau** for visual analytics.
