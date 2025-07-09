@@ -37,7 +37,7 @@ This is my Google Data Analytics Capstone project using Cyclistic bike-share dat
 
 ## 🔗 Useful Links
 - [📘 Medium Article](#) [*(insert link here)*](https://medium.com/@sakshiraorane.2005/phase-5-act-turning-insights-into-action-final-step-of-the-google-data-analytics-capstone-fb3cefce2b59)
-- [📊 Tableau Dashboard](#) *(insert link here)*
+
 
 ---
 
